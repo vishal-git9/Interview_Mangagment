@@ -1,0 +1,216 @@
+{
+  "candidateData": [
+    {
+      "id": 1,
+      "CandidateName": "Vishal",
+      "Mobile": "9898989800",
+      "Qualification": "B.Com",
+      "Role": "Frontend Developer",
+      "Status": "1st Level",
+      "Resume": "resume.png",
+      "emailId": "Vishal@gmail.com",
+      "domain": "Javascript",
+      "experience": "2yr"
+    },
+    {
+      "id": 2,
+      "CandidateName": "Kunal",
+      "Mobile": "9898989800",
+      "Qualification": "BA",
+      "Role": "Frontend Developer",
+      "Status": "1st Level",
+      "Resume": "resume.png",
+      "emailId": "Kunal@gmail.com",
+      "domain": "Javascript",
+      "experience": "2yr"
+    },
+    {
+      "id": 3,
+      "CandidateName": "Shivam",
+      "Mobile": "9898999800",
+      "Qualification": "B.Com",
+      "Role": "Frontend Developer",
+      "Status": "1st Level",
+      "Resume": "resume.png",
+      "emailId": "Shivam@gmail.com",
+      "domain": "Javascript",
+      "experience": "2yr"
+    }
+  ],
+
+  "hiringList": [
+    {
+      "id": 1,
+      "Recruiter": "Kathiresan",
+      "HiringManager": "Kathiresan",
+      "HiringStartDate": "20/09/2023",
+      "HiringClosureDate": "30/09/2023",
+      "Domain": "Java"
+    },
+    {
+      "id": 2,
+      "Recruiter": "Kathiresan",
+      "HiringManager": "Kathiresan",
+      "HiringStartDate": "20/09/2023",
+      "HiringClosureDate": "30/09/2023",
+      "Domain": "React"
+    }
+  ],
+
+  "FeedbackList": [
+    {
+      "id": 1,
+      "OverAllRating": 4.5,
+      "Feedback": "Positive",
+      "InterviewerStatus": "Good",
+      "HRHeadStatus": "Good",
+      "DomainName": "Development",
+      "SubCategoryRatings": 4
+    },
+    {
+      "id": 2,
+      "OverAllRating": 4.5,
+      "Feedback": "Positive",
+      "InterviewerStatus": "Good",
+      "HRHeadStatus": "Good",
+      "DomainName": "Development",
+      "SubCategoryRatings": 4
+    }
+  ],
+  "selectedList": [
+    {
+      "id": 1,
+      "CandidateName": "Kushal",
+      "ECTC": "5LPA",
+      "OverAllRating": 4.5,
+      "Feedback": "Positive",
+      "InterviewerStatus": "Good",
+      "HRHeadStatus": "Good",
+      "DomainName": "Development",
+      "SubCategoryRatings": 4,
+      "Schedulefor": "Frontend"
+    },
+    {
+      "id": 1,
+      "CandidateName": "Karan",
+      "ECTC": "8LPA",
+      "OverAllRating": 4.5,
+      "Feedback": "Positive",
+      "InterviewerStatus": "Good",
+      "HRHeadStatus": "Good",
+      "DomainName": "Development",
+      "SubCategoryRatings": 4,
+      "Schedulefor": "Backend"
+    }
+  ],
+
+  "DomainList": [
+    {
+      "id": 1,
+      "DomainName": "IT",
+      "DomainSubCategories": "Java"
+    },
+    {
+      "id": 2,
+      "DomainName": "IT",
+      "DomainSubCategories": "Javascript"
+    },
+    {
+      "id": 3,
+      "DomainName": "IT",
+      "DomainSubCategories": "Python"
+    }
+  ],
+
+  "UserList": [
+    {
+      "id": 1,
+      "UserName": "Girija",
+      "UserRole": "HR",
+      "UserEmailId": "Girija@clayfin.com",
+      "MobileNumber": "9193949593",
+      "Designation": "HR",
+      "Expertise": "HR"
+    },
+    {
+      "id": 2,
+      "UserName": "Kumar",
+      "UserRole": "HR",
+      "UserEmailId": "Kumar@clayfin.com",
+      "MobileNumber": "9193949593",
+      "Designation": "HR",
+      "Expertise": "HR"
+    },
+    {
+      "id": 1,
+      "UserName": "Kathiresan",
+      "UserRole": "Interviewer",
+      "UserEmailId": "Kathiresan@clayfin.com",
+      "MobileNumber": "9193949593",
+      "Designation": "Senior Technical Trainer",
+      "Expertise": "Java FSD"
+    }
+  ],
+
+  "HistoryList": [
+    {
+      "id": 1,
+      "CandidateName": "Kunal",
+      "Mobile": "9898989800",
+      "Qualification": "BA",
+      "Role": "Frontend Developer",
+      "Status": "1st Level",
+      "emailId": "Kunal@gmail.com",
+      "experience": "2yr"
+    },
+    {
+      "id": 2,
+      "CandidateName": "Krishna",
+      "Mobile": "9898989800",
+      "Qualification": "B.Com",
+      "Role": "Frontend Developer",
+      "Status": "1st Level",
+      "emailId": "Krishna@gmail.com",
+      "experience": "2yr"
+    }
+  ],
+
+  "Schedules": [
+    {
+      "id": 1,
+      "Date": "20/09/2023",
+      "Time": "4:30",
+      "Duration": "30min",
+      "MeetingLink": "googleMeet",
+      "Type": "Online",
+      "Interviewer": "Kathiresan",
+      "Candidate": "Karan",
+      "Resume": "resume.png",
+      "Status": "1st Level"
+    },
+    {
+      "id": 2,
+      "Date": "20/09/2023",
+      "Time": "4:30",
+      "Duration": "30min",
+      "MeetingLink": "googleMeet",
+      "Type": "Online",
+      "Interviewer": "Kathiresan",
+      "Candidate": "Karun",
+      "Resume": "resume.png",
+      "Status": "1st Level"
+    },
+    {
+      "id": 3,
+      "Date": "20/09/2023",
+      "Time": "4:30",
+      "Duration": "30min",
+      "MeetingLink": "googleMeet",
+      "Type": "Online",
+      "Interviewer": "Kathiresan",
+      "Candidate": "Krishna",
+      "Resume": "resume.png",
+      "Status": "1st Level"
+    }
+  ]
+}
