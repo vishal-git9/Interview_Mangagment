@@ -217,7 +217,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "server":"json-server --watch db.json --port 4000"
   },
   "repository": {
     "type": "git",
