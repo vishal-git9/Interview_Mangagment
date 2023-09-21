@@ -18,7 +18,7 @@
       "Mobile": "9898989800",
       "Qualification": "BA",
       "Role": "Frontend Developer",
-      "Status": "1st Level",
+      "Status": "2nd Level",
       "Resume": "resume.png",
       "emailId": "Kunal@gmail.com",
       "domain": "Javascript",
@@ -30,10 +30,10 @@
       "Mobile": "9898999800",
       "Qualification": "B.Com",
       "Role": "Frontend Developer",
-      "Status": "1st Level",
+      "Status": "3rd Level",
       "Resume": "resume.png",
       "emailId": "Shivam@gmail.com",
-      "domain": "Javascript",
+      "domain": "Java",
       "experience": "2yr"
     }
   ],
