@@ -1,40 +1,21 @@
 {
   "candidateData": [
     {
-      "id": 1,
-      "CandidateName": "Vishal",
-      "Mobile": "9898989800",
-      "Qualification": "B.Com",
-      "Role": "Frontend Developer",
-      "Status": "1st Level",
-      "Resume": "resume.png",
-      "emailId": "Vishal@gmail.com",
-      "domain": "Javascript",
-      "experience": "2yr"
-    },
-    {
-      "id": 2,
-      "CandidateName": "Kunal",
-      "Mobile": "9898989800",
-      "Qualification": "BA",
-      "Role": "Frontend Developer",
-      "Status": "2nd Level",
-      "Resume": "resume.png",
-      "emailId": "Kunal@gmail.com",
-      "domain": "Javascript",
-      "experience": "2yr"
-    },
-    {
-      "id": 3,
-      "CandidateName": "Shivam",
-      "Mobile": "9898999800",
-      "Qualification": "B.Com",
-      "Role": "Frontend Developer",
-      "Status": "3rd Level",
-      "Resume": "resume.png",
-      "emailId": "Shivam@gmail.com",
-      "domain": "Java",
-      "experience": "2yr"
+      "name": "Vishal",
+      "email": "vishalrajawat090@gmail.com",
+      "AlternateEmail": "vishalrajawat090@gmail.com",
+      "Mobile": "9191065175",
+      "AlternateMobile": "9191065175",
+      "Qualification": "B.Tech",
+      "Date": "2023-09-30T06:56:00.000Z",
+      "MarksInCgpa": "9.6",
+      "RoleApplied": "React ",
+      "Experience": "Fresher",
+      "CurretnCtc": "9",
+      "ExpectedCtc": "12",
+      "Domain": "JAVA",
+      "Resume": "2627589560.pdf",
+      "id": 1
     }
   ],
 
