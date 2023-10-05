@@ -111,6 +111,7 @@
       "UserEmailId": "Girija@clayfin.com",
       "MobileNumber": "9193949593",
       "Designation": "HR",
+      "Password":"Clayfin@123",
       "Expertise": "HR"
     },
     {
@@ -119,6 +120,7 @@
       "UserRole": "HR",
       "UserEmailId": "Kumar@clayfin.com",
       "MobileNumber": "9193949593",
+      "Password":"Clayfin@123",
       "Designation": "HR",
       "Expertise": "HR"
     },
@@ -128,6 +130,7 @@
       "UserRole": "Interviewer",
       "UserEmailId": "Kathiresan@clayfin.com",
       "MobileNumber": "9193949593",
+      "Password":"Clayfin@123",
       "Designation": "Senior Technical Trainer",
       "Expertise": "Java FSD"
     }
@@ -194,4 +197,5 @@
       "Status": "1st Level"
     }
   ]
+
 }
