@@ -17,6 +17,42 @@
       "Status":"2nd Level",
       "Resume": "2627589560.pdf",
       "id": 1
+    },
+    {
+      "name": "Shivam",
+      "email": "shivamrajawat090@gmail.com",
+      "AlternateEmail": "shivamrajawat090@gmail.com",
+      "Mobile": "9878757574",
+      "AlternateMobile": "9878757575",
+      "Qualification": "B.Tech",
+      "Date": "2023-09-30T06:56:00.000Z",
+      "MarksInCgpa": "9.6",
+      "RoleApplied": "React ",
+      "Experience": "3 Year",
+      "CurretnCtc": "9",
+      "ExpectedCtc": "12",
+      "Domain": "JAVA",
+      "Status":"1st Level",
+      "Resume": "2627589560.pdf",
+      "id": 2
+    },
+    {
+      "name": "Uzair",
+      "email": "uzairrajawat090@gmail.com",
+      "AlternateEmail": "uzairrajawat090@gmail.com",
+      "Mobile": "9898954234",
+      "AlternateMobile": "9898954254",
+      "Qualification": "M.Tech",
+      "Date": "2023-09-30T06:56:00.000Z",
+      "MarksInCgpa": "9.6",
+      "RoleApplied": "React ",
+      "Experience": "7 Year",
+      "CurretnCtc": "69",
+      "ExpectedCtc": "80",
+      "Domain": "JAVA",
+      "Status":"2nd Level",
+      "Resume": "2627589560.pdf",
+      "id": 3
     }
   ],
 
